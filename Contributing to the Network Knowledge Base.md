@@ -1,0 +1,22 @@
+**[If you don't have Github CLI installed](https://cli.github.com/manual/installation)**
+
+**Sign into Github via the Command Line**
+`gh auth login
+`cd directory-you-want-to-clone-into`
+`git clone git@github.com:AgencyGives/pulse.git`
+`cd pulse`
+`git init`
+
+**Open folder as an Obsidian Vault**
+
+[**Install and Enable Obsidian Git**](obsidian://show-plugin?id=obsidian-git)
+
+**Navigate through Github branches in Obsidian**
+
+**Push changes to a Github branch in Obsidian**
+
+**Create a branch for a Dework task in the Command Line**
+`cd vault-path`
+`git checkout your-github-username/dw-55/dework-task
+
+**Dework** **Automation**: After linking a **task** to a **branch**, if a _Pull Request_ is _opened_, the task’s status will automatically change to _In Review_. Then, if the _Pull Request_ is _merged_, the task will move to _Done_.

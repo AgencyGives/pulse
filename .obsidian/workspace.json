@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "08b53168e2eb33db",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c9a6519e65defb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a244484e3ee1bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contributing to the Network Knowledge Base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e4e71e2674ce43b",
+    "type": "split",
+    "children": [
+      {
+        "id": "316d10ac0bb003f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3a62659ef88e8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15c5429e413f0038",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76814ebba30cad80",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78c41a82f17569cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0b5c85b44c7e02c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7ce14631b82fcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contributing to the Network Knowledge Base.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9fa037bb684b2db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contributing to the Network Knowledge Base.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73b533b8c4526db8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9258708acd6c95a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contributing to the Network Knowledge Base.md"
+              }
+            }
+          },
+          {
+            "id": "2ec6cbbc0a2719b4",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a56730744e06e289",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2a8de4a70992ade",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5,
+    "collapsed": true
+  },
+  "active": "5a244484e3ee1bc0",
+  "lastOpenFiles": [
+    "If you don't have Github CLI installed.md",
+    "Fund.md",
+    "Contributing to the Network Knowledge Base.md",
+    "Play.md",
+    "2022-11-18.md",
+    "202211181150.md"
+  ]
+}
