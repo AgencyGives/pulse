@@ -3,5 +3,8 @@
   "obsidian-emoji-toolbar",
   "obsidian-kanban",
   "breadcrumbs",
-  "graph-analysis"
+  "graph-analysis",
+  "obisidian-note-linker",
+  "calendar",
+  "highlightr-plugin"
 ]

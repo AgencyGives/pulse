@@ -1,0 +1,1 @@
+Netting is the process by which a range of diverse ledger entries are calculated to a net position for each [[AGENT]] in relation to each other [[AGENT]].

@@ -1,0 +1,1 @@
+We don’t approach SECURITY in the sense of hiding (anonymity etc.), but in the sense of a substrate that can be audited, of a source that can be relied upon and has integrity, social accountability and injects itself into social structures.

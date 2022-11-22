@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9a6519e65defb2",
+        "id": "ea5a201458aa9df2",
         "type": "tabs",
         "children": [
           {
-            "id": "5a244484e3ee1bc0",
+            "id": "dae053daf6d4267a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contributing to the Network Knowledge Base.md",
+                "file": "ECSA Grammar/Value.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "78c41a82f17569cf",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributing to the Network Knowledge Base.md",
+                "file": "ECSA Grammar/Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contributing to the Network Knowledge Base.md",
+                "file": "ECSA Grammar/Value.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contributing to the Network Knowledge Base.md"
+                "file": "ECSA Grammar/Value.md"
               }
             }
           },
@@ -152,22 +152,33 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "10b1f929a16cb6ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 237.5,
-    "collapsed": true
+    "width": 237.5
   },
-  "active": "5a244484e3ee1bc0",
+  "active": "dae053daf6d4267a",
   "lastOpenFiles": [
-    "If you don't have Github CLI installed.md",
-    "Fund.md",
-    "Contributing to the Network Knowledge Base.md",
-    "Play.md",
-    "2022-11-18.md",
-    "202211181150.md"
+    "Programming/Imperative Programming Languages.md",
+    "Programming/Lisp.md",
+    "Programming/Parser.md",
+    "Programming/Macro.md",
+    "Programming/Procedure.md",
+    "Programming/Actual paramer.md",
+    "ECSA Grammar/Space.md",
+    "ECSA Grammar/Protocol.md",
+    "ECSA Grammar/Economy.md",
+    "ECSA Grammar/Cryptoeconomy.md"
   ]
 }

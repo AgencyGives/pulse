@@ -1,0 +1,1 @@
+A linker merges object codes[![Define this term](https://www.cs.fsu.edu/~engelen/courses/COP402003/define.gif)](https://www.cs.fsu.edu/~engelen/courses/COP402003/board.html#machinecode) and static library routines together to produce a binary executable program.

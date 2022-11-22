@@ -1,0 +1,1 @@
+[[Capitalism]] is a MONOCRACY of [[VALUE]]. It has only one [[VALUE]] like one true church with one true God of the form of univocity.

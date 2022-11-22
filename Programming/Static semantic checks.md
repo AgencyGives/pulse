@@ -1,0 +1,1 @@
+Static [[semantic checks]] performed by a [[compiler]] at compile time is applied to ensure that variables are declared before used, variables are typed correctly in expressions, labels have targets, etc.

@@ -1,0 +1,1 @@
+A nonterminal of a grammar denotes a syntactic category of a language. For example, a programming language statement as a syntactic category can be one of many alternative statements.

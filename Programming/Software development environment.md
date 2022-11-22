@@ -1,0 +1,1 @@
+An integrated software development environment (IDE) offers a source code editor, [[compiler]], [[linker]], and debugger.

@@ -1,0 +1,1 @@
+McLuhan (1964) famously said: The message of any new MEDIUM is the change of scale or pace or pattern it introduces to human affairs. What is the message of [[ECONOMIC MEDIA]]?

@@ -1,0 +1,1 @@
+Because the memory addressing in older systems was typically flat, a loader was required to place a binary executable program in memory. The loader modified the absolute addresses used for jumps and static data within a program to reflect the change in addressing by the placement of the code at a particular address in memory.

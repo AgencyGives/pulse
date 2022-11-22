@@ -1,0 +1,1 @@
+Functions that take other functions as input parameters or return newly constructed functions.

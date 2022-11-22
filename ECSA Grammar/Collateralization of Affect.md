@@ -1,0 +1,1 @@
+Collateralization of affect produces community.

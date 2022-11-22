@@ -1,0 +1,1 @@
+Dataflow [[programming languages]] model computation as the flow of information among primitive functional nodes. An example of this model of computation is a spread-sheet program. The cells can be viewed as primitive computational units that communicate with other cells to obtain values used to calculate the value displayed in the cell from a formula.

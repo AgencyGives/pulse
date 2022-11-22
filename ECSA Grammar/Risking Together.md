@@ -1,0 +1,1 @@
+[[Capitalism]] involves firms, and increasingly households, pricing risks and deciding which to hold and which to trade. As these risks are imposed increasingly on households – via precarious work and decreasing state provision of services – RISKING TOGETHER involves a conscious choice to calculate and manage risks socially rather than individually.

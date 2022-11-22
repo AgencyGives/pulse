@@ -1,0 +1,1 @@
+Translator of assembly[![Define this term](https://www.cs.fsu.edu/~engelen/courses/COP402003/define.gif)](https://www.cs.fsu.edu/~engelen/courses/COP402003/board.html#assembly) programs (mnemonic instructions) to machine code (or object code).

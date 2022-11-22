@@ -1,0 +1,1 @@
+A terminal of a grammar of a programming language is a token[![Define this term](https://www.cs.fsu.edu/~engelen/courses/COP402003/define.gif)](https://www.cs.fsu.edu/~engelen/courses/COP402003/board.html#token), e.g. a keyword or operator.

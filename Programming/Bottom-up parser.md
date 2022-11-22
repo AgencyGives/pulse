@@ -1,0 +1,1 @@
+This type of [[parser]] proceeds building a [[parse tree]] from the bottom up.

@@ -1,0 +1,1 @@
+Contains the [[ECONOMIC EVENT]]’s logic and its sequencing. Serves as a “view” of the [[NETWORK]] that is able to “detect” when a particular [[PERFORMANCE]] has occurred.

@@ -1,0 +1,1 @@
+This is a simple term to cover the combination of cryptography, secure distributed computation, object capabilities and blockchain technology.

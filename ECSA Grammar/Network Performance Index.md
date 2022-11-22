@@ -1,0 +1,1 @@
+A unit that measures or tracks one or more dimensions of [[VALUE]] (or “[[PERFORMANCE]]”), as one magnitude. An index counts [[PERFORMANCE]] occurrences, “events”, and increases according to them. A [[PERFORMANCE]] index can be TOKENized.

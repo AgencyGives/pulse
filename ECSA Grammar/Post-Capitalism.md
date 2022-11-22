@@ -1,0 +1,1 @@
+Post-[[CAPITALISM]] is the economic [[NETWORK]] that comes after [[CAPITALISM]]. In POST-[[CAPITALISM]], all AGENTs can issue assets to be used as [[COLLATERAL]]. Implicit here is the idea that a POST-[[CAPITALISM]] framed through finance can be depicted as an [[ECONOMY]] of continuous creation of new [[VALUE]]-forms.

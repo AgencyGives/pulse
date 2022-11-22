@@ -1,0 +1,1 @@
+A LR grammar is a grammar suitable for bottom-up parsing. A LR(_n_) grammar is a grammar suitable for bottom-up parsing using _n_ lookeahead [[tokens]]. The [[class]] of LR grammars includes the [[class]] of LL grammars.

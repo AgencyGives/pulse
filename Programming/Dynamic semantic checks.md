@@ -1,0 +1,1 @@
+A [[compiler]] may generate run time checks in the target code to enforce programming language specific onstraints on programming constructs at run time. An [[interpreter]] or [[virtual machine]] may enforce constraints immediately while executing an intruction. Exceptions are raised when an error is detected.

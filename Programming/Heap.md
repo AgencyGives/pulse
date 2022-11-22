@@ -1,0 +1,1 @@
+An area in memory for the dynamic creation of data during the lifetime of a program. The heap contains application data that is not static or [[stack]]-allocated[![Define this term](https://www.cs.fsu.edu/~engelen/courses/COP402003/define.gif)](https://www.cs.fsu.edu/~engelen/courses/COP402003/board.html#stack).

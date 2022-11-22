@@ -1,0 +1,1 @@
+Stakeholding is a relationship like equity is in [[CAPITALISM]], but the focus is on commitment to support creativity and [[INNOVATION]], not just seek yield on a financial position. STAKEHOLDING focuses on the collective, joint commitments of investing rather than the private profit interest.

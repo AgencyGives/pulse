@@ -1,0 +1,1 @@
+Two or more AGENTs connected to each other through the same [[PROTOCOL]]

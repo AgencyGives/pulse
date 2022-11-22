@@ -1,0 +1,1 @@
+An interpreter is a [[virtual machine]] for a high-level [[language]].

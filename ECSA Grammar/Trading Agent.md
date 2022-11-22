@@ -1,0 +1,1 @@
+A TRADING [[AGENT]] is an [[AGENT]] in the [[distributed exchange PROTOCOL]]. It can publish an [[OFFER]] and match an [[OFFER]].
