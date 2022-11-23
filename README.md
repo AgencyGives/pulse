@@ -9,11 +9,11 @@ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo 
 && sudo apt install gh -y
 
 ### Having SSH problems?
-gh auth login
-cd directory you want to clone into
-git clone git@github.com:AgencyGives/pulse.git
-cd pulse
-git init
+- gh auth login
+- cd directory you want to clone into
+- git clone git@github.com:AgencyGives/pulse.git
+- cd pulse
+- git init
 
 ### Download Obsidian
 https://obsidian.md/download
