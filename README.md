@@ -1,4 +1,4 @@
-# pulse: the Network Knowledge Base
+# pulse: A Network Knowledge Base
 
 ### Install Github Command Line Interface
 type -p curl >/dev/null || sudo apt install curl -y
@@ -24,7 +24,8 @@ https://obsidian.md/download
 navigate to obsidian command: git clone git@github.com:AgencyGives/pulse.git
 
 ### Navigate through Branches in Obsidian
-Push changes to a branch in Obsidian
+
+### Push changes to a branch in Obsidian
 
 ### Create a branch for a Dework task in Obsidian
 go to command line in obsidian git checkout input this:
