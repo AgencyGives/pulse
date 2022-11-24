@@ -10,10 +10,6 @@ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo 
 
 ### Having SSH problems?
 - gh auth login
-- cd directory you want to clone into
-- git clone git@github.com:AgencyGives/pulse.git
-- cd pulse
-- git init
 
 ### Download Obsidian
 https://obsidian.md/download
