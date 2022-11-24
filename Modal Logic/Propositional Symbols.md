@@ -1,0 +1,1 @@
+(usually p, q, r, etc), which represent basic facts about the environment

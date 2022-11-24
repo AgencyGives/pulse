@@ -8,5 +8,16 @@ Given the grammar
                 | ;
 
 The parse tree of "A,B,C;" is  
- 
 ![[Parser tree example](https://www.cs.fsu.edu/~engelen/courses/COP402003/topdown4.gif)
+S -> SS | (S) | e
+S => SS => S(S)
+=> (S)(S)
+=> (S)()
+=>()()
+
+Leftmost derivation
+S => SS => (S)S
+=> ()(S)
+=> ()()
+
+In any derivation i can always find a leftmost derivation, because it is a context free-grammar.
