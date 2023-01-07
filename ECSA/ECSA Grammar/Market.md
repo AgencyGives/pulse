@@ -1,0 +1,1 @@
+We think a MARKET is a [[Space]] of exchange. ECSA is making MARKET for new PERFORMANCEs. Creating new “MARKETs” and re-engineering “MARKETs”. It means structuring the [[Space]] of possibilities for economic properties of objects populating such [[Space]]: giving structure to a [[Space]] of exchange ([[Space]] of possible).

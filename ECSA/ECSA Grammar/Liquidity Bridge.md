@@ -1,0 +1,1 @@
+The ECSA [[Token]] constitutes the [[Liquidity]] BRIDGE between existing capital [[Market]] and ECONOMIC SPACEs.

@@ -1,0 +1,1 @@
+A [[Space]]-[[Agent]]">[[Economic Space]] [[Agent]]

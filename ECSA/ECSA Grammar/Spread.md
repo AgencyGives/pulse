@@ -1,0 +1,1 @@
+Spread is a financial term for a gap – usually between the bid (buy) and ask (sell) [[Price]] where a profit can be made by trading the difference. In a social framing a SPREAD is a gap between two positions that provides an opportunity to maneuver to make a gain.

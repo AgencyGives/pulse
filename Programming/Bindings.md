@@ -1,7 +1,7 @@
-An [[expression]] can have local name-[[value]] bindings defined with the let special form. The following refers to Scheme.
+An [[Expression]] can have local name-[[Value]] bindings defined with the let special form. The following refers to Scheme.
 
-(let _listofnameandvaluepairs [[expression]]_)  
-where _name and [[value]] pairs_ is a list of pairs (_namevalue_) and [[expression]] is returned in which each name is replaced with its [[value]] in the list
+(let _listofnameandvaluepairs [[Expression]]_)  
+where _name and [[Value]] pairs_ is a list of pairs (_namevalue_) and [[Expression]] is returned in which each name is replaced with its [[Value]] in the list
 -   Input:
 	- (let ((a 3)  
 	- (b 4)  
@@ -20,7 +20,7 @@ A name can be bound to a [[function]] in let
 - Output: 9
 
 # Recursive Bindings
-- An [[expression]] can have local _recursive_ [[function]] bindings defined with the letrec special form
-- (letrec _listofnameandvaluepairs [[expression]]_)
-- where _name and [[value]] pairs_ is a list of pairs (_namevalue_) and [[expression]] is returned where each name is replaced with its [[value]]
+- An [[Expression]] can have local _recursive_ [[function]] bindings defined with the letrec special form
+- (letrec _listofnameandvaluepairs [[Expression]]_)
+- where _name and [[Value]] pairs_ is a list of pairs (_namevalue_) and [[Expression]] is returned where each name is replaced with its [[Value]]
 -   This allows a local [[function]] fact to refer to itself

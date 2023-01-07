@@ -1,1 +1,0 @@
-If [[CAPITALISM]] is economic [[MONOCRACY]] (understands, and is ruled by, one [[VALUE]] only), ECSA is ECONOMIC HERESY.

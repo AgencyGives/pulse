@@ -167,8 +167,7 @@ versioning](https://github.com/GavinMendelGleason/syntactic_versioning). There a
 
 However I think it is fair to say that the use of patches on structured data has not hit prime-time. The tools to make use of it are not really there yet.
 
-But perhaps more importantly, the scope of its power is not at all appreciated. It is a way to communicate information in a way which can make explicit *when things commute*. That is, the conflicts which arise during merges in git are caused by non-commutative patches. And
-this is the same things as a transaction which does not commute.
+But perhaps more importantly, the scope of its power is not at all appreciated. It is a way to communicate information in a way which can make explicit *when things commute*. That is, the conflicts which arise during merges in git are caused by non-commutative patches. And this is the same things as a transaction which does not commute.
 
 This fact, now that we know a bit of Kripke semantics, should immediately remind us of the kinds of things we do in other circumstances when things do not commute!
 

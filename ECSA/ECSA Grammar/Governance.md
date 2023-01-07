@@ -1,0 +1,1 @@
+Governance is [[Economy]]. [[Economy]] is GOVERNANCE.

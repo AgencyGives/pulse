@@ -1,0 +1,1 @@
+A RIGHT gives an [[Agent]] access to a resource available in a [[Space]] or from another [[Agent]].

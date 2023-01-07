@@ -1,0 +1,1 @@
+The ability and [[Right]] to issue [[TOKENs]] grafted to any project, where [[TOKENs]] are understood as a primary user-interface and building block of an [[Economic Space]]. Thus SELF-[[Issuance]] is a way to design [[Economic Space]] and to write [[Social Derivative]]s.

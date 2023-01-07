@@ -1,0 +1,1 @@
+Token is a [[Performance]] [[Derivative]]. An entry in a ledger record. A [[Protocol]] equivalent of a financial asset that has an underlying.

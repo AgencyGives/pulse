@@ -1,0 +1,1 @@
+When we say blockchains are “TRUSTless,” what we mean is that there are mechanisms in place by which all parties in the system can reach a consensus on what the canonical truth is. Power and [[Trust]] is distributed or shared among the [[Network]]’s STAKEholders, rather than concentrated in a single individual or entity (e.g. banks, governments, and financial institutions).

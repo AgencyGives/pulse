@@ -1,0 +1,1 @@
+We cannot assume a [[Market]]. The [[Market]] is itself not a free good. The [[Price]] I have to pay for using it is the [[Liquidity]] PREMIUM. That is why COLLATERALized assets are VALUEd “at a haircut”.

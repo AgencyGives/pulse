@@ -1,0 +1,1 @@
+A failed revolution. Social media horizontalized our communication, but left the [[Information]] and [[Protocol]] layer called the [[Economy]] untouched.

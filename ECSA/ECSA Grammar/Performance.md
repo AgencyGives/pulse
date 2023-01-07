@@ -1,0 +1,1 @@
+Performance is activity of an [[Agent]]. It is a series of events, causally connected to each other, making PERFORMANCEs naturally composable and divisible. A PERFORMANCE is the result of a [[Performance Tracking Function]].

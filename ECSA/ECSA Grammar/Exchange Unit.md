@@ -1,0 +1,1 @@
+Exchange units (aka units of account) are utilized by the [[Distributed Exchange Protocol]] to provide a [[Unit of Account]] that serves as a shared [[Value]] reference frame that does not favor any one specific [[Token]] type; and to increase the possibility for matching an [[Offer]].

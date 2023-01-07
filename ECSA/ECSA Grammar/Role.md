@@ -1,0 +1,1 @@
+A [[Space]] ROLE is a bundle of responsibilities expressed as ROLE Functions that may be assigned to one or more [[Space]] AGENTs.

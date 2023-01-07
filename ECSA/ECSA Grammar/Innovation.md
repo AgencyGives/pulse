@@ -1,0 +1,1 @@
+At the core of the ECSA project because it is mutation, INNOVATION and creativity that drive [[Economy]] – not PRICEs. That is why we start with a decentralized [[Grammar]] (not physics). It allows us to tap into the virtual: change, freedom, duration, creativity VS. blockchains just making everything actual.
