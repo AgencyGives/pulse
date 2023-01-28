@@ -1,0 +1,1 @@
+Commodity [[Token]] is a [[Network]] [[Derivative]]. It is issued by the buyer in acknowledgment of the completion of a transaction. Makes any [[Information]] exchangeable.

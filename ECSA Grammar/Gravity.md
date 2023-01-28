@@ -1,1 +1,0 @@
-Gravity is an open, safe and TRUSTworthy programmable computer [[NETWORK]] accessible to everyone. It’s composed of a [[NETWORK]] of GRAVITY Cores (VMs) interacting through the GRAVITY [[PROTOCOL]] for message broadcast and ordering. GRAVITY [[PROTOCOL]] creates order – shared time and [[SPACE]] – across GRAVITY Cores without one central replicated state.

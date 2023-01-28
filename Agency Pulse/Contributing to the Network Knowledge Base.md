@@ -11,6 +11,7 @@
 -> record Gif
 
 [**Install and Enable Obsidian Git**](obsidian://show-plugin?id=obsidian-git)
+git@github.com:AgencyGives/pulse.git
 
 **Navigate through Github branches in Obsidian**
 -> record Gif

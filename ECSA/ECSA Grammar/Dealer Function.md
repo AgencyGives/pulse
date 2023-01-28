@@ -1,0 +1,1 @@
+A [[Market]] needs to have two PRICEs. Dealer makes the [[Market]] by creating the inside [[Spread]], the [[Spread]] that appears as “the [[Market]]”.  The dealer collects the inside [[Spread]]. And crosses the outside [[Spread]]. The dealer model of providing [[Liquidity]] is very different from the lender model.

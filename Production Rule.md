@@ -1,0 +1,1 @@
+A **production** or **production rule** in computer science is a _[rewrite rule](https://en.wikipedia.org/wiki/Rewrite_rule "Rewrite rule")_ specifying a symbol substitution that can be recursively performed to generate new symbol sequences.

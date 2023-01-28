@@ -1,0 +1,1 @@
+A prototype of [[Derivative]], a qualitative instrument of social [[Volatility]].

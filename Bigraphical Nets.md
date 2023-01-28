@@ -1,0 +1,3 @@
+> Interaction nets are a graphical model of computation, which has been used to define efficient evaluators for functional calculi, and specifically lambda calculi with patterns. However, the flat structure of interaction nets forces pattern matching and functional behaviour to be encoded at the same level, losing some potential parallelism. In this paper, we introduce bigraphical nets, or binets for short, as a generalisation of interaction nets using ideas from bigraphs and port graphs, and we present a formal notation and operational semantics for binets. We illustrate their expressive power by examples of applications.
+
+https://arxiv.org/pdf/1302.6339.pdf

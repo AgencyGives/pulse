@@ -1,5 +1,11 @@
 A grammar is ambiguous if a string exists that has more than one distinct [[derivation]] resulting in distinct parse trees. See also [[ambiguous if-then-else]][![Define this term](https://www.cs.fsu.edu/~engelen/courses/COP402003/define.gif)](https://www.cs.fsu.edu/~engelen/courses/COP402003/board.html#ambiguousifthenelse).
 
+# Ambiguous Grammars
+
+-   When more than one distinct derivation of a string exists resulting in distinct parse trees, the grammar is _ambiguous_ (as is the case above)
+-   A programming language construct should have only one parse tree to avoid misinterpretation by a compiler
+-   For expression grammars,  [[Associative]]] and [[Precedence]] of operators need to be included somehow
+
 The grammar for simple expressions below is ambiguous:
 
 <expression> -> identifier

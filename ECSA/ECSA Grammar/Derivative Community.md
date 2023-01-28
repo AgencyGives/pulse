@@ -1,0 +1,1 @@
+[[Derivative]] community is also known as a composite [[Agent]] and [[Agency]]. See [[Agency]].

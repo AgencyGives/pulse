@@ -1,0 +1,5 @@
+ [Functors](https://en.wikipedia.org/wiki/Function_word "Function word") (also known as function words) belong to the most important categories in logical grammar (along with basic categories like _sentence_ and _individual name_):[[4]](https://en.wikipedia.org/wiki/Intensional_logic#cite_note-basic_category-4) a functor can be regarded as an "incomplete" expression with argument places to fill in. If we fill them in with appropriate subexpressions, then the resulting entirely completed expression can be regarded as a result, an output.[[5]](https://en.wikipedia.org/wiki/Intensional_logic#cite_note-functor-5) Thus, a functor acts like a function sign,[[6]](https://en.wikipedia.org/wiki/Intensional_logic#cite_note-function_sign-6) taking on input expressions, resulting in a new, output expression.[[5]](https://en.wikipedia.org/wiki/Intensional_logic#cite_note-functor-5)
+
+> Cards are Functors
+
+Functors are our Expression Factories

@@ -1,0 +1,1 @@
+https://wiki.haskell.org/Curry-Howard-Lambek_correspondence

@@ -1,0 +1,1 @@
+Blockchains minimize the amount of TRUST required from any single actor in the system. They do this by distributing TRUST among different actors in the system via cooperation with the rules defined by the [[Protocol]].

@@ -1,1 +1,0 @@
-Performances are the key to new [[VALUE]] creation (see [[FUNDAMENTAL VALUE]]). A [[VALUE]] THEORY OF [[PERFORMANCE]] emphasises that PERFORMANCEs are designed and implemented so as to create [[VALUE]].

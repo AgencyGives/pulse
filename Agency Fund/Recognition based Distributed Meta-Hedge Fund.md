@@ -5,8 +5,3 @@ It aggregates derivative recognition vis-a-vis indexes according to the performa
 
 points are simply an embedded realization card...
 and it is the first card that is saying that the embedded has been realized...
-
-Factory
-+10 car
-
-car card

@@ -1,1 +1,0 @@
-Anything the [[NETWORK]] can recognize and record. A legible and verifiable interaction that can be placed within a [[SPACE]] and a time. An event can be defined as the result of a series of dependent interactions that form a causality [[NETWORK]].

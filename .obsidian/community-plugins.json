@@ -2,9 +2,13 @@
   "obsidian-git",
   "obsidian-emoji-toolbar",
   "obsidian-kanban",
-  "breadcrumbs",
   "graph-analysis",
-  "obisidian-note-linker",
   "calendar",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-wikipedia",
+  "obsidian-dictionary-plugin",
+  "omnisearch",
+  "cmenu-plugin",
+  "obsidian-spaced-repetition",
+  "obisidian-note-linker"
 ]

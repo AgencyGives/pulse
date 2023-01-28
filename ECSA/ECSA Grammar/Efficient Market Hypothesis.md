@@ -1,0 +1,1 @@
+Efficient [[Market]] hypothesis is the proposition that MARKETs reflect all available [[Information]], so at any time [[Market]] outcomes are efficient, but all new [[Information]] will change the efficient outcome, so that efficient outcome will continually change.

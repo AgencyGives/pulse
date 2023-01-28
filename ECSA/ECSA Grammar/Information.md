@@ -1,0 +1,1 @@
+We are creating a new kind of INFORMATION infrastructure which allows new kinds INFORMATION flows – what counts as [[Value]], what counts as [[Collateral]], what counts as liquid – to enter accounting system that articulates, accounts, moves and creates [[Value]].
