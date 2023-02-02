@@ -1,0 +1,4 @@
+- Check and assign yourself for open tasks/issues on Dework or Github
+- If you'd like to work on Obsidian, clone the repo to a local folder using [[Github Desktop]] and work on the branch related to the task/issue
+- Develop the file and once you're done commit it to the pull request related to the task/issue
+- Request to merge the pull request with the main branch

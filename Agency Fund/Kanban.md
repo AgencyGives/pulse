@@ -10,6 +10,17 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] [[Admin setup]]
+- [ ] [[Contribution flow]]
+- [ ] [[Dework]]
+- [ ] [[How to contribute?]]
+- [ ] [[Infrastructure]]
+- [ ] [[Integrations and info flow]]
+- [ ] [[Issue template]]
+- [ ] [[Obsidian]]
+- [ ] [[Obsidian Publish]]
+- [ ] [[Pulse Knowledge Base]]
+- [ ] add installation links and how-tos on [[Infrastructure]]
 
 
 ## In Review
@@ -19,6 +30,9 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
+- [x] [[Github]]
+- [x] [[Github Desktop]]
+- [x] [[Graph view]]
 
 
 

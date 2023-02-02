@@ -1,0 +1,3 @@
+[[ECSA Grammar]]
+
+A partition resistant, scalable P2P exchange. Facilitates parity path of any TOKENized [[INFORMATION]] into any other among n-parties without a central state/global replication. Creates a “[[SPACE]] of exchange” for different social meanings, properties & intentions to become expressible & exchangeable (i.e. liquid). A key piece in the [[SPACE]]-[[protocol]]">[[Economic SPACE]] [[Protocol]] (ECSP).

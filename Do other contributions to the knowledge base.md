@@ -1,0 +1,4 @@
+- If you'd like to work on Obsidian, clone the repo to a local folder using [[Github Desktop]]
+- Open a new pull request and work on the knowledge base
+- Develop the file and once you're done commit it to the pull request opened
+- Request to merge the pull request with the main branch

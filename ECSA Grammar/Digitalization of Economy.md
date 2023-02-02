@@ -1,0 +1,3 @@
+[[ECSA Grammar]]
+
+A failed revolution. Social media horizontalized our communication, but left the [[INFORMATION]] and [[PROTOCOL]] layer called the [[ECONOMY]] untouched.

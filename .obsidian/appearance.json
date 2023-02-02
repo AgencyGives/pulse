@@ -1,5 +1,9 @@
 {
   "accentColor": "",
+<<<<<<< Updated upstream
   "baseFontSize": 16,
   "cssTheme": "WY Console"
+=======
+  "baseFontSize": 18
+>>>>>>> Stashed changes
 }

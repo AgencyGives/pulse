@@ -1,0 +1,3 @@
+[[ECSA Grammar]]
+
+[[Netting]] with an inter-temporal component. Key function in the ECSA [[distributed credit PROTOCOL]]: every [[SPACE]]-[[agent]]">[[Economic SPACE]] [[Agent]] using it is also a clearer. AGENTs learn to do CLEARING through the creation of [[Liquidity Token]]s: when you issue a [[Liquidity Token]], you issue it to the credit [[NETWORK]]. Every [[Liquidity Token]] becomes part of the credit [[NETWORK]]. That is how it is possible for them to clear.  [[Liquidity Token]]s are used to facilitate and confirm ledger entries, generating [[STABILITY]] in economic flows; they are not coins to accumulate, or loaned for profit.

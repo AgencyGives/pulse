@@ -1,0 +1,6 @@
+- Github - Create a new file (empty/placeholder) for a note on the repo and commit to new pull request
+- Github - Add issue related to pull request - add file link in the description
+	- Automation - a task related to the issue and linked with the pull request is opened on Dework
+- Dework - edit the task and include additional information
+- Github/Dework - contributors submit their work on the pull request
+- Github - if the work/changes are approved merge the pull request with the main branch

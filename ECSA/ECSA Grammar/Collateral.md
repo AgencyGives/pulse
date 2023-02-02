@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream:ECSA/ECSA Grammar/Collateral.md
 The COLLATERAL question in [[Capitalism]] is who gets to determine what ‘assets’ are, and how they can be utilised for leverage. Workers’ primary asset – their capacity to work – is only COLLATERAL in the context of slavery: the capacity of the employer (owner) to use the worker as COLLATERAL; not the workers’ capacity to use themselves as COLLATERAL. The COLLATERAL question is the financial version of ‘[[class]]’. In [[Post-Capitalism]], all AGENTs can issue assets to be used as COLLATERAL. The construction of an economic [[Protocol]] for distributed COLLATERAL is itself the key challenge to the current capitalist order. It is the centrepiece of a strategy for a distributed (not centralized) economic system.
+=======
+[[ECSA Grammar]]
+
+The COLLATERAL question in [[CAPITALISM]] is who gets to determine what ‘assets’ are, and how they can be utilised for leverage. Workers’ primary asset – their capacity to work – is only COLLATERAL in the context of slavery: the capacity of the employer (owner) to use the worker as COLLATERAL; not the workers’ capacity to use themselves as COLLATERAL. The COLLATERAL question is the financial version of ‘[[class]]’. In [[POST-CAPITALISM]], all AGENTs can issue assets to be used as COLLATERAL. The construction of an economic [[PROTOCOL]] for distributed COLLATERAL is itself the key challenge to the current capitalist order. It is the centrepiece of a strategy for a distributed (not centralized) economic system.
+>>>>>>> Stashed changes:ECSA Grammar/Collateral.md
